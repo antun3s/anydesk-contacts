@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ANYDESKCONFIG=~/.anydesk/user.conf
-HTMLFILE=~/Documents/anydesk-contacts.html
+HTMLFILE=~/anydesk-contacts.html
 
 ANYDESKCONTACTS=/tmp/anydeskconatcts.txt
 

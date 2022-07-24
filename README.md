@@ -12,12 +12,17 @@ Feel free to do a PR, ask for new features or make suggestions.
 ## How it works
 This tool read AnyDesk config file and search for all registered contacts.
 
-After run, it generates HTML file on `~/Documents/anydesk-contacts.html`
+After run, it generates HTML file on `~/anydesk-contacts.html`
 
 
 ## How to use
 Download the script and run:
-`bash anydesk-contacts.sh`
+```
+gh repo clone antun3s/anydesk-contacts
+cd anydesk-contacts
+bash anydesk-contacts.sh
+
+```
 
 So, you just need to open HTML on your browser, search your contact and click on it.
 
