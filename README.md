@@ -9,6 +9,10 @@ To connect quickly, the search field have autofocus enabled. So you can load the
 
 Feel free to do a PR, ask for new features or make suggestions.
 
+
+![Demo - AnyDesk Contacts runnin ](https://github.com/antun3s/anydesk-contacts/blob/master/anydesk-contacts-running.gif?raw=true)
+
+
 ## How it works
 This tool read AnyDesk config file and search for all registered contacts.
 
